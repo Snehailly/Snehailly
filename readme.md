@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehailly" alt="snehailly" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++ DSA and developing my skills in frontend development, learning HTML, CSS, and JavaScript.**
+- 🌱 I’m currently learning **DSA in C++ and developing my skills in frontend development, learning HTML, CSS, and JavaScript.**
 
 - 📫 How to reach me **Snehailly05@gmail.com**
 
