@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Illy</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehailly" alt="snehailly" /></a> </p>
 
 - 🌱 I’m currently learning **DSA in C++ and developing my skills in frontend development, learning HTML, CSS, and JavaScript.**
 
